@@ -1,6 +1,6 @@
-### Hi there 👋
 
-# Hi, I'm James :smiley:
+
+## Hi, I'm James 👋
 
  <!-- LinkedIn Contact -->
   <a href="https://www.linkedin.com/in/jawangusmc/" target="_blank">
@@ -34,4 +34,4 @@ I'm a Data Scientist and Technical Program Manager who is passionate about learn
 
 ### 💬 Ask Me About:
 
-* My journey from being a Military Officer to Technical Program Manager to Data Scientist. Spoiler - it all stems from wanting to challenge myself and making an impact.
+* My journey from being a Military Officer to Technical Program Manager to Data Scientist. <i>Spoiler</i> - it all stems from wanting to challenge myself and making an impact.
