@@ -21,7 +21,7 @@ I'm a Data Scientist and Technical Program Manager who is passionate about learn
 
 * Completing [Azures Data Science Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=3F886A40-54D6-42DA-BDD5-BA0B210A04B9?OCID=AID3027817).
 
-* Refining a Machine Learning model to predict the daily high and low price for stocks using Gradient Boosting Regression and Recurrent Neural Networks. I'd like to host this model online and build my own backtesting dashboard that tracks the return using different trading strategies based on the predictions. 
+* Refining a [Machine Learning model](https://ml-stock-trading.azurewebsites.net/) to predict the daily high and low price for stocks using Gradient Boosting Regression and Recurrent Neural Networks. I'd like to host this model on Azure and build my own backtesting dashboard that tracks the return using different trading strategies based on the predictions. 
 
 * Improving my ability to create advanced reports/dashboards in Power Bi. I built a [Seattle Crime Dashboard](https://seattle-crime-app.herokuapp.com/) using Flask/Plotly Dash and want to build something similar using Power Bi to further hone my expertise in using differnt tools to visualize data.
 
