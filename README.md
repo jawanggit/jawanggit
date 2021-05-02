@@ -31,7 +31,7 @@ I'm a Data Scientist and Technical Program Manager who is passionate about learn
 
 * Deep Learning with Python: I find neural networks fascinating and their application is the engine for many of today's newest technology (i.e. autonomous driving, voice-recognization products)
 
-* Learning how to automate ML models using Azure Machine Learning Studio as part of being Microsoft Certified: Azure Data Scientist Associate.
+* Learning how to automate ML models using Azure Machine Learning studio as part of being Microsoft Certified: Azure Data Scientist Associate.
 
 ### 💬 Ask Me About:
 
