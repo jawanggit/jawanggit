@@ -23,8 +23,8 @@ I'm a Data Scientist and Technical Program Manager who is passionate about learn
 
 * Refining a [Machine Learning model](https://ml-stock-trading.azurewebsites.net/) to predict the daily high and low price for stocks using Gradient Boosting Regression and Recurrent Neural Networks. I'd like to host this model on Azure and build my own backtesting dashboard that tracks the return using different trading strategies based on the predictions. 
 
-* Improving my ability to create advanced reports/dashboards in Power Bi. I built a [Seattle Crime Dashboard](https://seattle-crime-app.herokuapp.com/) using Flask/Plotly Dash and want to build something similar using Power Bi to further hone my expertise in using differnt tools to visualize data.
-
+* Improving my ability to create advanced reports/dashboards in Power Bi. I built a [Seattle Crime Dashboard](https://seattle-crime-app.herokuapp.com/) using Flask/Plotly Dash and want to build something similar using Power Bi to further hone my expertise in using different tools to visualize data.
+e
 * Working with a team of fellow Data Scientists to compete in Kaggle's [Coleridge Initiative: Show US the Data](https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data).
 
 ### 📚 Currently Learning / Re-Learning More About:
