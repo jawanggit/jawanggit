@@ -19,7 +19,7 @@ I'm a Data Scientist and Technical Program Manager who is passionate about learn
 
 ### 💻 Currently Working On:
 
-* Completing [Azures Data Science Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=3F886A40-54D6-42DA-BDD5-BA0B210A04B9?OCID=AID3027817).
+* Completing [Azures Data Science Cloud Skills Challenge](https://docs.microsoft.com/en-us/learn/challenges?id=3F886A40-54D6-42DA-BDD5-BA0B210A04B9?OCID=AID3027817) and getting certified as a Microsoft Data Scientist Associate.
 
 * Refining a [Machine Learning model](https://ml-stock-trading.azurewebsites.net/) to predict the daily high and low price for stocks using Gradient Boosting Regression and Recurrent Neural Networks. I'd like to host this model on Azure and build my own backtesting dashboard that tracks the return using different trading strategies based on the predictions. 
 
